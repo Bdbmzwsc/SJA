@@ -25,3 +25,4 @@ Or directly run the EXE program inside. If. Net framework 4.7 has been installed
 If you also want to join the development of SJA [click](https://www.wenjuan.design/s/UZBZJv1mI3/)
 
 The language is Chinese.
+

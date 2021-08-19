@@ -24,5 +24,11 @@ Or directly run the EXE program inside. If. Net framework 4.7 has been installed
 # Participate in
 If you also want to join the development of SJA [click](https://www.wenjuan.design/s/UZBZJv1mI3/)
 
+## I can't find another way to upload files larger than 25mb, so if you want open source code, contact me
+```
+email: 1726016497@qq.com
+QQ No.: 1726016497
+```
+
 The language is Chinese.
 

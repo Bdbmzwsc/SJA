@@ -1,3 +1,51 @@
+# SJA将被重写
+# SJA will be overwritten
+
+## 为什么重写
+## Why to rewrite
+
+原SJA结构和内容已不能继续更新、满足高版本的需求
+The original SJA structure and content can not continue to update, meet the needs of high version
+
+## 这次重写将会更新什么?
+## What this rewrite will update?
+
+### 构架和功能
+```更新sja构架,并添加文件管理功能```
+### 安全性
+```在每次分析对比完后会生成一个报告，此报告将会被加密，对于分析项目也会对其进行加密，防止内容被篡改```
+```防止利用外挂等手段去破解sja```
+```加壳```
+### UI
+```此次重写UI将会比以前稍微好一点点```
+### UWP
+```可能会出现sjauwp版```
+
+##What will this rewrite update?
+
+## What this rewrite will update?
+
+###Architecture and function
+
+```Update SJA framework and add file management function```
+
+###Security
+
+```After each analysis and comparison, a report will be generated, which will be encrypted, and the analysis items will also be encrypted to prevent the contents from being tampered with```
+
+```Prevent the use of plug-ins and other means to crack SJA```
+
+```Shell```
+
+### UI
+
+```This rewrite of the UI will be a little better than before```
+
+### UWP
+
+```Sjauwp version may appear```
+
+
 # Scratch JSON Analyser
 Analyze files saved in Scratch3.0
 The SJA here developed by himself, but the official SJA not I write, [website](https://gitee.com/gitkunkun/SJA),I am only interested in this project and using c # write SJA
